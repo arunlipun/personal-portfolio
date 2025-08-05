@@ -7,7 +7,7 @@ const projectsData = [
     title: "OLA Data Analytics",
     description:
       " Cleaned and structured ride data for better visualization. Created Power BI dashboards to analyze customer trends, revenue insights, and ride statistics",
-    image: "/public/projects/ola.png",
+    image: "assets/ola.png",
     tags: ["Excel", "VBA", "Power BI", "SQL"],
     category: "Data Analytics",
     liveDemo: "https://github.com/arunlipun/Ola_data_analytics",
@@ -17,7 +17,7 @@ const projectsData = [
     title: "Smart Alarm Clock App",
     description:
       "A sleek and responsive alarm clock built with React, featuring real-time time tracking, customizable alarm settings, audio alerts, and an intuitive user interface. Ideal for productivity and time management on the web.",
-    image: "/public/projects/alarm.png",
+    image: "assets/alarm.png",
     tags: ["React", "HTML", "JavaScript", "TailwindCss"],
     category: "Web Development",
     liveDemo: "https://alarm-react-swart.vercel.app/",
@@ -27,7 +27,7 @@ const projectsData = [
     title: "PDF VOICE SEARCH",
     description:
       "Use microphone search a word, sentence and letter from a pdf or page .",
-    image: "/projects/pdfvoice.png",
+    image: "assets/pdfvoice.png",
     tags: ["React", "JavaScript", "tailwindcss","HTML","CSS"],
     category: "Web Development",
     liveDemo: "https://pdf-voice-search-7jsnxypg0-arunlipuns-projects.vercel.app",
@@ -37,7 +37,7 @@ const projectsData = [
     title: "AI alets System",
     description:
       "👁️ Eye Detection Alert System A real-time Python + OpenCV project that detects whether the eyes are open or closed. If closed, a loud alert sound is triggered to prevent accidents (ideal for drowsy driver detection systems 🚗). .",
-    image: "public/projects/eye.png",
+    image: "assets/eye.png",
     tags: ["Python", "OpenCV", "Haar Cascade Classifier", "WebCam"],
     category: "AI Projects",
     liveDemo: "https://github.com/arunlipun/opencv_python",
